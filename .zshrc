@@ -15,5 +15,5 @@ compinit
 autoload -Uz bashcompinit
 bashcompinit
 
-# Activate rtx version manager
-eval "$(rtx activate zsh)"
+# Activate mise version manager
+eval "$(mise activate zsh)"
